@@ -1,2 +1,3 @@
-git is a tool
+git is a to
+inter aline
 git is a version manager
